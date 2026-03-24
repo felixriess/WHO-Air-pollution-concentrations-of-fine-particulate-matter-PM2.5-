@@ -14,4 +14,4 @@ Filter criteria:
 
 Result: 1,056 rows
 
-I filtered these countries as such to accommodate compatibility with my second dataset, which includes the same timespan and countries. Then exported as CSV file and uploaded to this repository. Opus 4.6Extended
+I filtered these countries as such to accommodate compatibility with my second dataset, which includes the same timespan and countries. Then exported as CSV file and uploaded to this repository. 
